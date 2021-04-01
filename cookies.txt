@@ -1,0 +1,41 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+login.linuxacademy.com	FALSE	/usernamepassword/login	TRUE	1618138953	_csrf	mgPPZ2QhPbj4dP_AVEoskdna
+linuxacademy.com	FALSE	/	FALSE	1648832966	altSiteDirection	secondary
+.linuxacademy.com	TRUE	/	FALSE	1680348160	_ga	GA1.2.890009138.1573809664
+.linuxacademy.com	TRUE	/	FALSE	1642906132	hblid	wQcMWLDfLrTsuKwU5r6LC0E6Br3oOkKA
+.linuxacademy.com	TRUE	/	FALSE	1642906132	olfsk	olfsk3743759156633224
+linuxacademy.com	FALSE	/	FALSE	1914799708	visitor_id700003-hash	7448ef20e547ce10dae894554eb2d82ee926449a4cbea6bca0b38f8da988130ea85815c20f8d22d382593b048ea28b9bbd72db44
+linuxacademy.com	FALSE	/	FALSE	1914799708	visitor_id700003	1997718
+go.linuxacademy.com	FALSE	/	TRUE	1905295221	visitor_id700003	1997718
+login.linuxacademy.com	FALSE	/	TRUE	1733587961	did	s%3Av0%3A444c8180-0789-11ea-826a-05b3affa0ef2.z7%2FBoItlBc58f1RG%2FAMqMPd8evu3JZA1o5EWaesHMvM
+app.linuxacademy.com	FALSE	/	FALSE	1898415057	visitor_id700003	1997718
+app.linuxacademy.com	FALSE	/	FALSE	1898415057	visitor_id700003-hash	7448ef20e547ce10dae894554eb2d82ee926449a4cbea6bca0b38f8da988130ea85815c20f8d22d382593b048ea28b9bbd72db44
+.linuxacademy.com	TRUE	/	FALSE	1640604970	intercom-id-c3zuyhmd	869bbc27-cf24-4f04-9773-87264cc18b02
+login.linuxacademy.com	FALSE	/	TRUE	1733587961	did_compat	s%3Av0%3A444c8180-0789-11ea-826a-05b3affa0ef2.z7%2FBoItlBc58f1RG%2FAMqMPd8evu3JZA1o5EWaesHMvM
+.linuxacademy.com	TRUE	/	FALSE	1653904484	_mkto_trk	id:204-IDQ-427&token:_mch-linuxacademy.com-1583567597955-38526
+go.linuxacademy.com	FALSE	/	TRUE	1905295221	visitor_id700003-hash	7448ef20e547ce10dae894554eb2d82ee926449a4cbea6bca0b38f8da988130ea85815c20f8d22d382593b048ea28b9bbd72db44
+.linuxacademy.com	TRUE	/	TRUE	1622350801	LiveBall	uid=1650447&uky=FR3BVE3R&rid=4593991
+.linuxacademy.com	TRUE	/	FALSE	1619866964	org_uuid	c7d5345a-287d-462b-8006-b3ffa74b33b8
+.linuxacademy.com	TRUE	/	FALSE	1619866964	auth_engine_uuid	5a8ef951-1dd3-493d-a825-4ffa029c7c19
+linuxacademy.com	FALSE	/	FALSE	1647328258	contentbox	1
+.linuxacademy.com	TRUE	/	FALSE	1619694446	gaCookie	GA1.2.597309020.1615792259
+.linuxacademy.com	TRUE	/	FALSE	1623568261	_gcl_au	1.1.2046225021.1615792261
+.linuxacademy.com	TRUE	/	FALSE	1625052160	_rdt_uuid	1615792261269.6fc60413-b8b4-4608-9b12-0e1abdb8120e
+.linuxacademy.com	TRUE	/	FALSE	1625052162	_fbp	fb.1.1615792261618.698698891
+.support.linuxacademy.com	TRUE	/	FALSE	1618919761	__cfduid	d61e6928cc33bf4eab3459f8e764a90eb1616327760
+login.linuxacademy.com	FALSE	/	TRUE	1617534447	auth0	s%3A1QZ059MDziMLdY4TruYD9howKRkAGx04.FmZoSJbdKHkhD9fK55QGgNdoXxWBXNNg7%2BJh0DPL6Xc
+login.linuxacademy.com	FALSE	/	TRUE	1617534447	auth0_compat	s%3A1QZ059MDziMLdY4TruYD9howKRkAGx04.FmZoSJbdKHkhD9fK55QGgNdoXxWBXNNg7%2BJh0DPL6Xc
+.linuxacademy.com	TRUE	/	FALSE	1617361364	PHPSESSIONID	d2b5f5517b290613c907072619fbb2db20d3aa446851a70a13d264f63cbae4df8c5eb5a2093769d405b2899ebd4fae7e27c63a637fbe9e1b205330c744848bbc
+linuxacademy.com	FALSE	/	FALSE	1648810965	optin	1
+.linuxacademy.com	TRUE	/	FALSE	1617361646	gaCookie_gid	GA1.2.240945186.1617274970
+.linuxacademy.com	TRUE	/	FALSE	1617362560	_gid	GA1.2.1971497866.1617274970
+.linuxacademy.com	TRUE	/	TRUE	1648810970	fs_uid	rs.fullstory.com#HHFM8#4641497110028288:5633310553808896/1648810970
+.linuxacademy.com	TRUE	/	FALSE	1617880053	intercom-session-c3zuyhmd	c3dVQk1jelJLWUZadUtzRVJwTnVjVGxndHVGc2JiVGphRXUrMkducVNPckdScGdKSjJwSHZJVmptcXBnUUdSZS0tbzZ3VjVYSHpFMjJEdzR5M08raFYzZz09--d159a0426d106f3a7a671f74d0fa1c2a3f1dc3b4
+linuxacademy.com	FALSE	/	TRUE	1617880814	AWSALBCORS	qVbAT68oec2Ds+XWTZPA4kn2M6WPMFeuG3isGM+/t5afOwuv1LTAhdc5vtUlYpoLgjx6iXkfQ/ng//VwpHA+BadC8otLuOJo0KdNKFlrUKIDkRjGDfU9PseWkpDs
+.linuxacademy.com	TRUE	/	FALSE	1617276184	_gat_UA-88499456-1	1
+.linuxacademy.com	TRUE	/	FALSE	1617276184	_gat	1
+.linuxacademy.com	TRUE	/	FALSE	1617362560	_uetsid	d8a0d81092d911eba6d6817c6168539a
+.linuxacademy.com	TRUE	/	FALSE	1618680160	_uetvid	d8a121c092d911eb8883b9876014ab8f
